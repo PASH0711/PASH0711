@@ -1,4 +1,4 @@
-# Hi, I'm Pasha 👋
+# Hi, I'm Pashang 👋
 
 I'm building a career in markets operations and financial technology. My projects focus on the core workflows of a trading ops team — reconciliation, settlement, P&L reporting, and data quality.
 
